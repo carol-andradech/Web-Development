@@ -1,3 +1,5 @@
-Projetos dos curso da Udemy "The Complete 2021 Web Development Bootcamp".
-Curso full-stack web developer.
-Instrutor: Dr. Angela Yu
+Projects from Udemy "The Complete Web Development Bootcamp". 
+Full-stack Web Developer - HTML, CSS, Javascript, Node, React, MongoDB.
+Instrustor: Dr. Angela Yu
+
+https://www.udemy.com/course/the-complete-web-development-bootcamp/
